@@ -2,7 +2,7 @@ This repository accompanies the paper: **Hechtner, F., Schmidt, L., Seebeck, A.,
 
 TaxBERT is a domain-adapated RoBERTa model, specifically designed to analyze qualitative corporate tax disclosures.
 
-SSRN:
+SSRN:https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146523
 
 Huggingface: https://huggingface.co/mariusweiss/TaxBERT
 
