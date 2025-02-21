@@ -1,4 +1,4 @@
-This repository accompanies the paper: **Hechtner, F., Schmidt, L., Seebeck, A., & Weiß, M. (2025). How to design and employ specialized large language models for accounting and taxation research: The example of TaxBERT.**
+This repository accompanies the paper: **Hechtner, F., Schmidt, L., Seebeck, A., & Weiß, M. (2025). How to design and employ specialized large language models for accounting and tax research: The example of TaxBERT.**
 
 TaxBERT is a domain-adapated RoBERTa model, specifically designed to analyze qualitative corporate tax disclosures.
 
